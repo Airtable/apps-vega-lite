@@ -1,6 +1,6 @@
 {
     "name": "@airtable/vega-lite-block",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Create rich data visualizations with Vega-Lite",
     "author": "",
     "license": "MIT",
@@ -13,8 +13,8 @@
         "react": "^16.9.0",
         "react-dom": "^16.9.0",
         "react-vega": "^7.3.0",
-        "vega": "^5.10.1",
-        "vega-lite": "^4.10.1"
+        "vega": "^5.12.1",
+        "vega-lite": "^4.13.1"
     },
     "devDependencies": {
         "eslint": "^7.0.0",
