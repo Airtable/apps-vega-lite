@@ -1,11 +1,11 @@
 {
     "name": "@airtable/vega-lite-app",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Create rich data visualizations with Vega-Lite",
     "author": "",
     "license": "MIT",
     "dependencies": {
-        "@airtable/blocks": "0.0.43",
+        "@airtable/blocks": "latest",
         "@monaco-editor/react": "^3.3.0",
         "lodash.debounce": "^4.0.8",
         "monaco-editor": "^0.20.0",
@@ -14,7 +14,8 @@
         "react-dom": "^16.9.0",
         "react-vega": "^7.3.0",
         "vega": "^5.12.1",
-        "vega-lite": "^4.13.1"
+        "vega-lite": "^4.13.1",
+        "vega-util": "^1.16.0"
     },
     "devDependencies": {
         "eslint": "^7.0.0",
